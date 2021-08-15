@@ -1,5 +1,5 @@
 # Othello
-Rules of the game----
+Rules of the game -
 1. Black moves first.
 2. To make a legal move, your piece must be placed next to a piece of
 the opposite colour. The move is only legal if there somewhere on the
